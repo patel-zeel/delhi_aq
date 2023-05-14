@@ -1,6 +1,7 @@
 notebooks/data
 notebooks/lightning_logs
 mlruns
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
