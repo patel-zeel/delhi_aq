@@ -1,0 +1,6 @@
+layers: [256, 256, 256, 256]
+activation_scale: 30.0
+iterations: 1000
+batch_size: -1
+lr: 0.001
+gpu_id: 1

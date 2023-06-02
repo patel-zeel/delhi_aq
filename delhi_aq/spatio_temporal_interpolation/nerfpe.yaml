@@ -1,0 +1,5 @@
+layers: [256, 256, 256, 256]
+iterations: 1000
+batch_size: -1
+lr: 1e-3
+activation_scale: 30.0

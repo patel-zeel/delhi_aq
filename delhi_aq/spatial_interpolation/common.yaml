@@ -1,0 +1,8 @@
+seed: 5
+month: "6"
+features:
+  - longitude
+  - latitude
+target: PM2.5
+test_size: 1
+val_size: 0.2
